@@ -1,0 +1,25 @@
+# Compiled binaries
+*.out
+shell
+shell.out
+
+# Object files and dependencies
+*.o
+*.d
+*.a
+
+# History and logs
+.shell_history
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
