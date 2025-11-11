@@ -179,7 +179,3 @@ The shell has been tested with:
 - Background job management
 - Signal handling
 - Edge cases and error conditions
-
-## Acknowledgements
-
-This project was developed as part of the **Operating Systems and Networks** course at the **International Institute of Information Technology, Hyderabad (IIIT-H)**. Special thanks to the course instructor and teaching assistants for their guidance and support throughout the development of this shell implementation.
